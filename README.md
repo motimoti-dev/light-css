@@ -1,6 +1,7 @@
 # light-css
 文字数をできるだけ抑えてCSSを書くための奴です。site speed insightsで高評価を貰うために作成されたものです。
 使用頻度が高いものだけ定義してあります。
+[light css ver 1](https://motimoti-dev.github.io/light-css/css/light-ver-1.css "ver 1")
 
 ## light-cssの役割
 例えばmargin 0 autoのCSSを記述するときにいちいちclassを定義して書いていると時間がかかってしまうのであらかじめm-0aのようなclassを作っておいてこれをclassに打ち込んで楽しようという奴です。
